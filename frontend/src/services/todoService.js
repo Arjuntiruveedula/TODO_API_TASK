@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api/todos';
+const API_URL = 'https://todo-api-task-crk3.vercel.app/api/todos';
 
 // Add token to every request
 const authHeader = () => {
