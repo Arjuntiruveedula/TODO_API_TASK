@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://todo-api-task-crk3.vercel.app/api/auth';
+const API_URL = 'https://todo-api-task-2.onrender.com/api/auth';
 
 const register = async (userData) => {
   
