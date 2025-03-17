@@ -4,6 +4,8 @@
 
 # Frontend URL 😉 :  https://todo-api-task-client-side.vercel.app/
 
+For understanding of the RESTful api i have implemented Frontend also !
+
 
 ![Screenshot 2025-03-17 113335](https://github.com/user-attachments/assets/6261a71a-176a-4c44-b6d3-59b824fba1fc)
 
@@ -244,7 +246,7 @@ render env add JWT_SECRET
 ## 👨‍💻 Author
 
 
-[GitHub](https://github.com/Arjuntiruveedula)  
+[Apparao Tiruveedula](https://github.com/Arjuntiruveedula)  
 ---
 
 ## 📜 License
