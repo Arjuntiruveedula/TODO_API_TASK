@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://todo-api-task-crk3.vercel.app/api/todos';
+const API_URL = 'https://todo-api-task-2.onrender.com/api/todos';
 
 // Add token to every request
 const authHeader = () => {
